@@ -15,9 +15,9 @@
 - 📫 How to reach me **juan.david.carreno.arias01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/carrenoA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="carrenoA" height="30" width="40" /></a>
-</p>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/owZEYk6CUM)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,3 +40,5 @@
     <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   </a>
 </p>
+
+
