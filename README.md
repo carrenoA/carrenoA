@@ -1,7 +1,5 @@
 # Hi 👋, I'm Juan David Carreño
 
-![Profile Views](https://komarev.com/ghpvc/?username=carrenoA&color=blue&style=flat)
-
 - 🔭 I'm currently working on **My own start-up Fuxi**
 
 - 🌱 I'm currently learning **Backend with Python**
